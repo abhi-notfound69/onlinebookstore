@@ -25,6 +25,8 @@ input[type=text], input[type=password] {
   }
 
 label[for="name"], label[for="pas"] {
+    font-weight: bold;
+    display: inline-block;
     margin-left: 300px;
 }
 
