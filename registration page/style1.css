@@ -34,4 +34,10 @@ button{
     margin-top: 10px;
     margin-left: 500px;
     width: 25%;
+    background-color: yellow;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
 }
