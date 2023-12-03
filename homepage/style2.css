@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+div{
+    background-color: brown;
+    text-align: left;
+    padding: 5px;
+    padding-left: 100px;
+    word-spacing: 200px;
+    
+}
