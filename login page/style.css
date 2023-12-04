@@ -52,8 +52,15 @@ button.resetbtn {
     padding: 10px 18px;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-weight: bold;
+    color: white;
 }
 
 span.psw {
     margin-left: 200px;
+}
+
+button.resetbtn:hover{
+    background-color: #ccc;
+    color: red;
 }
