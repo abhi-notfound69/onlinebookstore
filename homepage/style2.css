@@ -1,16 +1,31 @@
-a{
-    text-decoration: none;
-    font-size: medium;
-    font-weight: bolder;
-    color: white;
-    
+body{
+    margin: 0;
 }
 
-div{
+.horizontal-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
     background-color: brown;
+}
+
+.horizontal-nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
     text-align: left;
-    padding: 5px;
-    padding-left: 100px;
-    word-spacing: 200px;
-    
+    padding-left:  115px;
+    padding-right: 115px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.horizontal-nav a:hover{
+    background-color: greenyellow;
+}
+
+.horizontal-nav li{
+    float: left;
 }
