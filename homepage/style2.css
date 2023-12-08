@@ -6,8 +6,9 @@ body{
     list-style: none;
     padding: 0;
     margin: 0;
-    overflow: hidden;
+    overflow: scroll;
     background-color: brown;
+    width: 100%;
 }
 
 .horizontal-nav a{
@@ -28,4 +29,8 @@ body{
 
 .horizontal-nav li{
     float: left;
+}
+nav{
+    width: 100vw;
+    height: 100vh;
 }
