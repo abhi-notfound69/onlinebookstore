@@ -4,6 +4,7 @@ body{
 .vertical-nav{
     background-color: brown;
     display: block;
+   
 }
 .vertical-nav ul{
     list-style: none;
@@ -17,9 +18,13 @@ body{
     color: white;
     text-decoration: none;
     padding: 5px;
+    text-align: center;
 }
 
 .vertical-nav a:hover{
     background-color: rgb(117, 54, 23);
 }
 
+ul li{
+    border: 1px solid black;
+}
