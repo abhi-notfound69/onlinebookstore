@@ -64,3 +64,6 @@ button.resetbtn:hover{
     background-color: #ccc;
     color: red;
 }
+button.login:hover{
+    background-color: white;
+}
