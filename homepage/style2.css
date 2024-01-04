@@ -29,3 +29,7 @@ nav ul{
     display: flex;
 
 }
+
+.active{
+    background-color: green;
+}
