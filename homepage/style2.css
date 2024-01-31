@@ -23,7 +23,7 @@ body{
 
 
 .horizontal-nav a:hover{
-    background-color: rgb(117, 54, 23);
+    background-color: green;
 }
 nav ul{
     display: flex;
